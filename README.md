@@ -1,6 +1,6 @@
-# 🪼 Cassio
+# 🪼 Caya
 
-Me chamo Cassio, tenho 15 anos e sou do Parana. Estou atualmente no ensino medio 1 ADS. Sou apaixonado por tecnologia
+Me chamo Caya, tenho 15 anos e sou do Parana. Estou atualmente no ensino medio 1 ADS. Sou apaixonado por tecnologia
 
 <p align="left">
     </a>
