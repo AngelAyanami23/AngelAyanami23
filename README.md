@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caya
+# 🪼 Caya
 
 Me chamo Caya, tenho 15 anos e sou do Parana. Estou atualmente no ensino medio 1 ADS. Sou apaixonado por tecnologia
 
